@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on swift coding for my intership. 
+- 🌱 I’m currently learning swift coding.
 
 <!--
 **KOGitH7/KOGitH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
