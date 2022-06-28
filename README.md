@@ -4,9 +4,10 @@
 # {My Portfolio Project} (https://kogith7.github.io/KOGitH7/) 
 <!--
 
-## Project 2 
+### Project 2 
 
 - 🤔 I’m looking for help with learning how to create a Portfolio using GitHub
+<!--
 **KOGitH7/KOGitH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
