@@ -4,7 +4,7 @@
 # {My Portfolio Project} (https://kogith7.github.io/KOGitH7/) 
 <!--
 
-# {Project 2: Answering Question}
+# [Project 2: Answering Question]
 
 - 🤔 I’m looking for help with learning how to create a Portfolio using GitHub
 <!--
