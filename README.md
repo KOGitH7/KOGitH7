@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on swift coding for my intership. 
 - 🌱 I’m currently learning swift coding.
 # {My Portfolio Project} (https://kogith7.github.io/KOGitH7/) 
+
 (https://github.com/KOGitH7/KOGitH7/blob/a1f196907c0dbfd1207c90e0ac50f5e5fef2edb0/image/image.jpeg)
 <!--
 
